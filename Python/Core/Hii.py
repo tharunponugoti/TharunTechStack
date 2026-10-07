@@ -1,7 +1,0 @@
-print("what to print")
-print("hello world")
-print("first program python print function")
-print('print("what to print" )')
-print("Hello" + " tharun")
-print("tharun" + " " + "ponugoti")
-print('tharun\ntharun\n')
