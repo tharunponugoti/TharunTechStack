@@ -2,7 +2,7 @@
 #
 # --Class is a blueprint or template to create the objects
 # --The class will provide variables and Methods which are required to Object
-# --Class is a imaginary due to that it does not exits in real time
+# --Class is an imaginary due to that it does not exit in real time
 #
 #
 # What data an object should have → Attributes
@@ -35,7 +35,7 @@
 # Object = Real thing created from blueprint
 #
 #
-#
+
 # A class is a blueprint or template for creating objects, containing
 # attributes and methods that define an object's data and behavior.
 

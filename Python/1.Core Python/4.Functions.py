@@ -359,10 +359,11 @@
 # 2,One time use it is good or quick operations
 #
 #
----How to use lambda function with if else condition
+# ---How to use lambda function with if else condition
+# #
 #
-largestno=lambda a,b: f"{a} is largest no"if a>b else f"{b} is largest no"
-print(largestno(10,20))
+# largestno=lambda a,b: f"{a} is largest no"if a>b else f"{b} is largest no"
+# print(largestno(10,20))
 
 
 

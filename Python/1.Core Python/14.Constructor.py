@@ -34,60 +34,61 @@
 # to get current object variable value
 
 
-# class tharun:
-#     def __init__(self):
-#         self.name = "ponu"
-#     def display(self):
-#         print(id(self))
-# p=tharun()
-# print(id(p))
-# p.display()
+class tharun:
+    def __init__(self):
+        self.name = "ponu"
+    def display(self):
+        print(id(self))
+p=tharun()
+print(id(p))
+p.display()
 
-
------Constructor
-
-A constructor is a special method in a class that is automatically executed when an object is created.
-
-constructor is a special method in python
-
-the name of the constructor is __init__()
-
-the first parameter of constructor is self
-
-we are reqiured call the constructor explicitly
-
-it will execute automatically when we create the object
-
-for object or each object constructor will be executed only once
-
-the main purpose of constructor is declare the instance variables and initialize instance variables
-to object
-
-
-__init__ means initialization
-
-
-Constructor should take at least one arguemnt
-
-with in the python class constructor is optional
-
-if we are not providing constructor default constructor will be provided by pvm
-
-class Test:
-    def m1(self):
-        print("m1")
-t=test()
-
-
-but with out writing constructor we cannot pass arguement then it is meaning
-it is better to use consrtuctor
-
-
-class Test:
-    def m1(self):
-        print("Im Constructor")
-t=Test()       ------object creation only once
-t.__init__()
-t.__init__()
+#
+#
+# -----Constructor
+#
+# A constructor is a special method in a class that is automatically executed when an object is created.
+#
+# constructor is a special method in python
+#
+# the name of the constructor is __init__()
+#
+# the first parameter of constructor is self
+#
+# we are required call the constructor explicitly
+#
+# it will execute automatically when we create the object
+#
+# for object or each object constructor will be executed only once
+#
+# the main purpose of constructor is declare the instance variables and initialize instance variables
+# to object
+#
+#
+# __init__ means initialization
+#
+#
+# Constructor should take at least one argument
+#
+# with in the python class constructor is optional
+#
+# if we are not providing constructor default constructor will be provided by pvm
+#
+# class Test:
+#     def m1(self):
+#         print("m1")
+# t=test()
+#
+#
+# but with out writing constructor we cannot pass argument then it is meaning
+# it is better to use constructor
+#
+#
+# class Test:
+#     def m1(self):
+#         print("Im Constructor")
+# t=Test()       ------object creation only once
+# t.__init__()
+# t.__init__()
 
 

@@ -2,8 +2,8 @@
 #
 #-----It is used to work with instance variables
 #-----We can declare the instance methods inside the class, the first parameter of
-# instace method is self
-#-----If you are accesing Instance Variables inside the Methods then such of method called as Instance Method
+# instance method is self
+#-----If you are accessing Instance Variables inside the Methods then such of method called as Instance Method
 
 # Ex:
 #
@@ -202,13 +202,7 @@
 # Access the class variable belonging to the current class.
 #
 #
-# Can
-# we
-# call
-# a
-#
-#
-# class method using an object?
+# Can we call a class method using an object?
 #
 #
 # Yes.

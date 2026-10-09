@@ -45,7 +45,8 @@
 #
 # Python is a Widely Used high-level programming Language and  general-purpose programming language.
 # It is known for its simple and readable syntax, making it one of the easiest programming languages for beginners to learn.
-# Python is widely used in web development, data science, artificial intelligence, machine learning, automation, game development, and scientific computing.
+# Python is widely used in web development, data science, artificial intelligence, machine learning, automation,
+# game development, and scientific computing.
 #
 #
 # -----What is General Purpose Programming or Why Python is called General Purpose Programming Language
